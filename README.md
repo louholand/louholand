@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello! 👋
 
-I'm Louise Holst Andersen (she/her), a former journalist now studying MSc in Software Design, Information Technology at the IT University of Copenhagen. 🧑‍💻 Currently enjoying learning how to solve problems with code.
+I'm Louise Holst Andersen (she/her), a former journalist now studying MSc in Software Design at the IT University of Copenhagen. 🧑‍💻
 
 - 💡 **Currently learning:** Java and OOP, Discrete Math and Software Engineering 
 - 🌱 **Future goals:** Functional programming? Parallel computing? Machine learning? 
