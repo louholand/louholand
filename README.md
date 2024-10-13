@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **louholand/louholand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello! 👋
+
+I'm Louise Holst Andersen (she/her), a former journalist now studying MSc in Software Design, Information Technology at the IT University of Copenhagen. 🧑‍💻 Currently enjoying learning how to solve problems with code.
+
+- 💡 **Currently learning:** Java and OOP, Discrete Math and Software Engineering 
+- 🌱 **Future goals:** Functional programming? Parallel computing? Machine learning? 
+- 🛠️ **Tools & languages:** Java, Python (pandas), APIs (both documented & sneaky undocumented ones), command line
+- 🏔️ **Fun fact:** When I'm not coding, you’ll find me skiing, hiking, or wild camping in the great outdoors!  
+
