@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 ## Hello! 👋
 
-I'm Louise Holst Andersen (she/her), a former journalist now studying MSc in Software Design at the IT University of Copenhagen. 🧑‍💻
+I'm Louise Holst Andersen (she/her), a former journalist now studying MSc in Software Design at the IT University of Copenhagen.
 
-- 💡 **Currently learning:** Java, Discrete Maths, Software Engineering
-- 🌱 **Future goals:** Functional programming? Parallel computing? Cloud?
-- 🛠️ **Tools & languages:** Java, Python (pandas), Git, Gradle
+- 💡 **Currently learning:** Algorithms & Data Structures, Functional Programming (F#), Database Systems (SQL, ER modeling, duckdb).
+- 🛠️ **In the toolbox:** Object-Oriented Programming, Java, Python for data analysis (pandas), Git, Gradle.
 - 🏔️ **Fun fact:** When I'm not coding or solving math problems, I'm probably outdoors.
-
